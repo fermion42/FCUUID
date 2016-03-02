@@ -6,7 +6,7 @@
 //
 
 #import "FCUUID.h"
-#import "UICKeyChainStore.h"
+@import UICKeyChainStore;
 
 
 @implementation FCUUID
